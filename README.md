@@ -66,8 +66,3 @@ Berikut adalah file data yang digunakan:
 - Diskon besar tidak selalu efektif, karena justru menurunkan profit dan penjualan produk.
 
 ---
-
-## 💡 Rekomendasi Strategis
-
----
-
