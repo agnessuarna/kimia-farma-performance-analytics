@@ -55,8 +55,7 @@ Berikut adalah file data yang digunakan:
 - Analisis pengaruh diskon terhadap profit dan penjualan
 
 ### 4. Visualisasi Dashboard
-    
-![Dashboard Performance Analytics](image/Dashboard Performance Analytics Kimia Farma Business Year 2020-2023 .png)
+![Dashboard Performance Analytics](https://github.com/user-attachments/assets/0c42a7ed-0486-4914-98d4-0e6e4ffaf0fd)
 
 ---
 
