@@ -56,6 +56,7 @@ Berikut adalah file data yang digunakan:
 
 ### 4. Visualisasi Dashboard
     
+![Dashboard Performance Analytics](image/Dashboard Performance Analytics Kimia Farma Business Year 2020-2023 .png)
 
 ---
 
